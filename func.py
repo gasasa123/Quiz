@@ -1,6 +1,6 @@
 def beauty(x):
   correct = "Correct Answer"
-  discorrect = "You Wrong!!"
+  discorrect = "You Wrong!"
   if x == 1:
     print("************", correct, "************", sep="\n")
   else:
